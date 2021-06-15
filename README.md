@@ -4,4 +4,4 @@ This contains all work completed for CSCI 3022 at the University of Colorado at 
 # Course Description -
 Introduces students to the tools methods and theory behind extracting insights from data. Covers algorithms of cleaning and munging data, probability theory and common distributions, statistical simulation, drawing inferences from data, and basic statistical modeling.
 
-Final Grade - Percentage TBD(A)
+Final Grade - 98.87%(A)
